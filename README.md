@@ -27,5 +27,3 @@ This project practices basic JavaScript concepts:
 - Electric Scooter Final Price: 480  
 - Playstation4 Final Price: 720  
 - Playstation5 Final Price: 1600
-
-## 📂 Project Structure
